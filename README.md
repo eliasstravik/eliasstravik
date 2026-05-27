@@ -1,8 +1,8 @@
 hey - i'm elias. i build open source software for gtm engineering.
 
 currently:
-- chief tinkering officer @ eliasstravik.com
-- head of special projects @ thekiln.com
+- chief tinkering officer @ [eliasstravik.com](https://eliasstravik.com)
+- head of special projects @ [thekiln.com](https://thekiln.com)
 - consulting and advising startups + enterprises on gtm engineering
 - father of two beautiful boys and exited founder (2025)
 
