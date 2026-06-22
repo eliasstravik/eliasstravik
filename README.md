@@ -1,4 +1,4 @@
-hey - i'm elias. i build open source software for gtm engineering.
+hey - i'm elias. i build open source sotware for gtm teams.
 
 currently:
 - chief tinkering officer @ [eliasstravik.com](https://eliasstravik.com)
